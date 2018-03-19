@@ -1,20 +1,24 @@
-NOUN [1]	_______________________
+NOUN [1]	kitten
 
-ADVERB [2]	_______________________
+ADVERB [2]	__________quickly____________
 
+<<<<<<< HEAD
 NUMBER [3]	_________________1020______
+=======
+NUMBER [3]	____________17___________
+>>>>>>> db98727d8d6b58cefddb9926814eae24e1296f4c
 
 ANIMAL (PLURAL) [4]	________sheep_______________
 
 ADJECTIVE [5]	_______________________
 
-NUMBER [6]	1000001
+NUMBER [6]	___________57____________
 
 NOUN [7]	_______________________
 
 VERB ENDING IN "S" [8]	_________________runs______
 
-ADJECTIVE [9]	_______________________
+ADJECTIVE [9]	_______round________________
 
 ADJECTIVE [10]	_______________________
 
@@ -24,7 +28,7 @@ VERB ENDING IN "S" [12]	_______________________
 
 ADJECTIVE [13]	_______________________
 
-NOUN [14]	_______________________
+NOUN [14]	_______MAGIC________
 
 VERB ENDING IN "ED" [15]	________translated_______________
 
@@ -64,7 +68,7 @@ the ________[10]________ person with all of the words on it. At this
 
 point, the ________[10]________ person must type the
 
-________[8]________ of words into a ________[14]________ and
+________[8]________ of words into a ________MAGIC________ and
 
 submit it to the judges. The score is ________[15]________ upon speed
 
